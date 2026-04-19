@@ -47,7 +47,7 @@ npm run dev
 
 ## Screenshots
 
-![Roast My Code Screenshot](https://raw.githubusercontent.com/Dev-narayan01/roast-my-code/main/public/screenshot.jpg)
+![Roast My Code Screenshot](https://raw.githubusercontent.com/Dev-narayan01/roast-my-code/main/public/screenshot.webp)
 
 ## License
 
