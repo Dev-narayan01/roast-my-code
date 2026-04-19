@@ -47,7 +47,7 @@ npm run dev
 
 ## Screenshots
 
-> Drop a screenshot of the UI here after deploying.
+![Roast My Code Screenshot](https://raw.githubusercontent.com/Dev-narayan01/roast-my-code/main/public/screenshot.jpg)
 
 ## License
 
